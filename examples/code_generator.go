@@ -3,7 +3,6 @@ package katatinyurl
 import (
 	"math/rand/v2"
 	"strings"
-	// "strings"
 )
 
 const (
